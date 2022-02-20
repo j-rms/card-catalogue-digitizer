@@ -1,0 +1,4 @@
+* Card catalogue digitizer
+  A bash script for quickly digitizing a museum's card catalogue.  Requires two webcams that are correctly positioned to capture both sides of a card. 
+
+  This script was quickly developed in order to speedily digitize the Garstang Museum's card catalogue.
